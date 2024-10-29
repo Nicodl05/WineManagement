@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Macon Milly Lamartine",
+    "vintage": 2018,
+    "region": {
+      "name": "Bourgogne",
+      "sub_regions": ["Macon"]
+    },
+    "sub_region": "Macon",
+    "quantity": 20
+  },
+  {
+    "name": "Saint-Veran",
+    "vintage": 2019,
+    "region": {
+      "name": "Bourgogne",
+      "sub_regions": ["Macon"]
+    },
+    "sub_region": "Macon",
+    "quantity": 15
+  },
+  {
+    "name": "Pouilly-Fuisse",
+    "vintage": 2017,
+    "region": {
+      "name": "Bourgogne",
+      "sub_regions": ["Macon"]
+    },
+    "sub_region": "Macon",
+    "quantity": 10
+  }
+]
